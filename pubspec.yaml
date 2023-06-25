@@ -1,0 +1,17 @@
+name: flutter_easy_log
+description: An extremely easy-to-use logging library for Flutter.
+version: 0.0.1
+homepage: https://github.com/marcoscgdev/flutter_easy_log
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
