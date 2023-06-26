@@ -1,6 +1,6 @@
 # flutter_easy_log  [![Pub](https://img.shields.io/pub/v/flutter_easy_log.svg)](https://pub.dev/packages/flutter_easy_log)
 
-An extremely easy-to-use logging library for Flutter.
+An extremely easy-to-use logging library for Flutter. Highly inspired by [Android's default logging API](https://developer.android.com/reference/android/util/Log).
 
 ## Getting Started
 
